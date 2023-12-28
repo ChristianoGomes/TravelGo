@@ -21,7 +21,7 @@ const PlacesCard = ({ img, title, location, description, price, type }) => {
         </div>
         <p className='line-clamp-2'>{description}</p>
         <div className='flex items-center justify-between border-t-2 y-3 !mt-3'>
-            <div className="poacity-70">
+            <div className="opacity-70">
                 <p>{type}</p>
             </div>
             <div>

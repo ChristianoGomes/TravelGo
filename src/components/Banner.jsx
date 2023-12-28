@@ -28,10 +28,7 @@ const Banner = () => {
                 data-aos="fade-up"
                 className="text-sm text-gray-500 tracking-wide leading-7"
               >
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis
-                omnis architecto cupiditate minus fugit. Perferendis neque nam
-                labore quas accusamus sed magnam! Quo excepturi esse accusantium
-                quidem eaque accusamus ipsam.{" "}
+                unlock the magic of diverse landscapes, vibrant cultures, and unforgettable experiences. From the majestic peaks of the Himalayas to the sun-kissed shores of the Maldives, our curated destinations promise adventure, relaxation, and the thrill of the unknown..{" "}
               </p>
               <div data-aos="zoom-in" className="grid grid-cols-2 gap-6">
                   <div className="space-y-6">

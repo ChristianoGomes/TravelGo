@@ -49,9 +49,7 @@ const Footer = () => {
                 {/* TravelloGo */}
               </h1>
               <p className="text-sm">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde
-                facere ab hic accusamus omnis dolor voluptatibus illo, tempore
-                eum tenetur.
+              "Immerse yourself in the beauty of new horizons, savor the flavors of local cuisines, and create lasting memories with our seamless travel experiences. Join us on a voyage where exploration knows no bounds. Your next adventure awaits—let us be your passport to the extraordinary."
               </p>
               <br />
               <div className="flex items-center gap-3 ">

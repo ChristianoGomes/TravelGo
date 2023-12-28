@@ -1,5 +1,6 @@
 import React from 'react'
 import Location from '../components/Location'
+import BlogsComp from '../components/BlogsComp'
 
 const About = () => {
   return (
@@ -25,6 +26,7 @@ const About = () => {
         </p>
       </div>
       <Location />
+      <BlogsComp />
     </div>
   );
 };
