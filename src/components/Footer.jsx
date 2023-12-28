@@ -139,7 +139,7 @@ const Footer = () => {
             </div>
           </div>
           <div>
-            <div className="text-center py-5 border-t-2 border-gray-300/50 bg-primary text-white">
+            <div className="text-center py-5 border-t-2 border-gray-300/50 bg-gradient-to-r from-primary to-secondary text-white">
               @copyright 2024 All rights reserved 
             </div>
           </div>

@@ -10,19 +10,13 @@ const About = () => {
           About us
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis
-          aliquid error hic esse, minima in cupiditate fugiat maxime voluptatem.
-          Ad repudiandae odio autem reiciendis animi et deleniti totam suscipit
-          delectus Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-          Debitis sint nulla ab dicta, fuga officia iste consequuntur facilis
-          ducimus est molestias pariatur neque eum praesentium blanditiis
-          aliquid atque nemo saepe? Lorem ipsum dolor sit amet consectetur
-          adipisicing elit. Rem tempore enim modi, itaque deleniti cumque quo
-          deserunt incidunt. Voluptas reprehenderit corrupti, consequatur ut
-          iusto quidem. Quis odit quae hic eum Lorem ipsum dolor sit amet
-          consectetur adipisicing elit. Non nostrum rem illo? Doloremque ab,
-          quibusdam nobis mollitia optio ad id aspernatur, earum explicabo quo
-          temporibus vitae expedita? Repellat, numquam eum?
+        Welcome we are your passport to extraordinary journeys and unforgettable experiences! Our travel agency page beckons you to explore the world like never before.
+
+Immerse yourself in a seamless user experience as you navigate through our intuitive website, designed to showcase an array of handpicked destinations. From sun-kissed beaches to majestic mountains, our page provides a visual feast that sparks the wanderlust in you.
+
+With swift responsiveness and dynamic features, our website ensures effortless planning on any device. Explore curated packages, discover travel tips, and get ready to embark on a journey of a lifetime.
+
+Join us on a visually stunning and user-friendly exploration of the world. Let us be your guide to creating memories that last a lifetime.
         </p>
       </div>
       <Location />
