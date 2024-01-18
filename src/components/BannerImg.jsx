@@ -8,10 +8,11 @@ const BannerImg = ({img}) => {
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
         height: '400px',
+       
     }
   return (
-    <div data-aos= "zoom-in"
-    className='h-[400px] w-full'
+    <div data-aos= "zoom-in overflow-hidden'"
+    className='mx-auto h-[300px] w-full '
     style={bgImage}>
       
     </div>

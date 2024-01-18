@@ -12,7 +12,7 @@ const Location = () => {
               src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAApUZducH0-_JrNQk8Qa5JzIeO1yhvOnM&q=Space+Needle,Seattle+WA"
               width="100%"
               height="360"
-              allowfullscreen=""
+              allowFullScreen=""
               loading="lazy"
               referrerpolicy="no-referrer-when-downgrade"
               style={{ borderRadius: "20px" }}
