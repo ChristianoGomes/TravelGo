@@ -2,14 +2,15 @@ import React from 'react'
 import NatureVid from '../assets/nature.mp4'
 import Hero from '../components/Hero'
 import Places from '../components/Places'
-import BannerImg from '../components/Bannerimg'
-import Bannerimg2 from '../assets/cover-women.jpg'
-import Banner2 from '../assets/travel-cover2.jpg'
+
+import Banner2 from '../assets/cover-women.jpg'
+import Banner3 from '../assets/travel-cover2.jpg'
 import Blogs from '../pages/Blogs'
 import Banner from '../components/Banner'
 import Testimonial from '../components/Testimonial'
 import Footer from '../components/Footer'
 import Popup from '../components/Popup'
+import BannerImg from '../components/BannerImg'
 
 
 
@@ -36,10 +37,10 @@ const handleOrderPopup = () => {
       <Hero />
     </div>
     <Places handleOrderPopup={handleOrderPopup} />
-    <BannerImg img={Bannerimg2}/>
+    <BannerImg img={Banner2}/>
     <Blogs />
     <Banner />
-    <BannerImg img={Banner2}/>
+    <BannerImg img={Banner3}/>
     <Testimonial />
     <Popup orderPopup={orderPopup} setOrderPopup={setOrderPopup} />
     <Footer />
